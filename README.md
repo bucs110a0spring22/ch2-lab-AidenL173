@@ -13,7 +13,7 @@ _Replace anything surrounded by the `< >` symbols._
 ## GRACE DAYS
 Grace days used for this assignment: < 0 >
 
-Grace days remaining: < 0 / 5 >
+Grace days remaining: < 5 / 5 >
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
  < None. >
