@@ -1,3 +1,4 @@
+import random
 
 #Part A
 weeks = 16
@@ -14,4 +15,8 @@ print(tuition, type(tuition))
 print(cost_per_week, type(cost_per_week))
 print(classes_per_week, type(classes_per_week))
 print(cost_per_class, type(cost_per_class))
+
 #Part B
+randolist = (3, "Marshmellow", 65.31, "Decimals", "Yessir")
+result = random.choice(randolist)
+print(result)
